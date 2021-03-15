@@ -1,0 +1,23 @@
+/* .col {
+    margin: 3rem;
+} */
+
+.antWater {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin: 0 auto;
+    margin-top: 5rem ;
+    border-radius: 100px;
+    height: 200px;
+}
+
+.myCards {
+    margin: 0 auto;
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+}
+
+.text-color {
+    color: white !important;
+}

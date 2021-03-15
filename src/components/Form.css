@@ -1,0 +1,30 @@
+.myForm {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+
+#email {
+    width: 90%;
+}
+
+.emailLabel{
+    color: white;
+}
+
+#message {
+    width: 90%;
+}
+
+.messageLabel {
+    color: white;
+}
+
+.emailLabel, .messageLabel, .formButton {
+    margin-top: 1rem;
+}
+
+.formButton {
+    margin-bottom: 1rem;
+}
